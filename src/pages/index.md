@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Aaron.Software
 image: /img/3.jpeg
-heading: Great coffee with a conscience
+heading: 
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: " Hi! My name is Aaron ramirez"
