@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Aaron.Software
-image: /img/1.png
+image: /img/3.jpeg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
