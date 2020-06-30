@@ -46,16 +46,15 @@ intro:
       Helped refactoring the client side web application by using React, React Native,wordpress,Html,ionic, 
        Heavily used npm famous JavaScript modules and learned about many Web Development good practices; 
        Creating  apps  & for different clients in Mexico ,Usa, 
-        Pitching ideas as a project Manager and creating business Meetings to transform ideas to  real a product  
+        Pitching ideas as a project Manager and creating business Meetings to transform ideas to  real a product.  
        
 
-main:
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
-  image1:
+  image: /img/products-grid3.jpg.
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
   image2:
