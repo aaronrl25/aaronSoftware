@@ -1,9 +1,8 @@
 ---
 templateKey: index-page
 title: Aaron.Software
-image: /img/3.jpeg
+image: /img/1.png
 heading: 
-subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: " Hi! My name is Aaron ramirez"
   description: >
